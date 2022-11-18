@@ -1,2 +1,2 @@
 # docker-app
- Just simple Docker getting started app
+ Just a simple Docker "getting started" app
